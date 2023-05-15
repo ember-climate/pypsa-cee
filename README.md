@@ -84,6 +84,7 @@ Please look at the Ember briefing cited in the `Introduction` for a detailed lis
 The most significant model references are listed below:
 
 - PyPSA: T. Brown, J. Hörsch, D. Schlachtberger, PyPSA: Python for Power System Analysis, 2018, Journal of Open Research Software, 6(1), arXiv:1707.09913, DOI:10.5334/jors.188
+- PyPSA-ENTSO-E: Matteo de Felice, Simulating European power systems using open tools and data, 2023, https://github.com/matteodefelice/pypsa-entsoe
 - ENTSO-E Ten-year Network Development Plan (TYNDP) 2022: https://2022.entsos-tyndp-scenarios.eu/download/
 - ENTSO-E European Resource Adequacy Assessment (ERAA) 2021: https://www.entsoe.eu/outlooks/eraa/2021/eraa-downloads/index.html
 - PyPSA-UK: Ember. (2022). PyPSA-UK - An open energy model of the UK power sector based on the PyPSA framework. https://github.com/ember-climate/pypsa-uk
