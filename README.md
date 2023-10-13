@@ -1,4 +1,6 @@
-# PyPSA-CEE
+# (DEPRECATED) PyPSA-CEE
+
+We've merged our models into one framework: [Ember-PyPSA](https://github.com/ember-climate/ember-pypsa) so this repository will be deprecated. 
 
 ## Introduction
 
